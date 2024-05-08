@@ -19,9 +19,9 @@ Soy un Estudiante de Data Science y Desarrollador Backend Jr. con conocimientos 
 
 ## Proyectos Destacados
 
-- **Agenda-Django (github.com/NicoPotrich/Agenda-Django)**: Este proyecto fue desarrollado como parte de mi trabajo final en Coderhouse. Se trata de una aplicación de agenda desarrollada en Django que permite gestionar contactos, tareas, reuniones, itinerarios de viajes y usuarios. Mi enfoque principal en este proyecto fue en el backend, aunque también participé en la parte mínima del frontend.
+- **Agenda-Django (https://github.com/NicoPotrich/Agenda-Django)**: Este proyecto fue desarrollado como parte de mi trabajo final en Coderhouse. Se trata de una aplicación de agenda desarrollada en Django que permite gestionar contactos, tareas, reuniones, itinerarios de viajes y usuarios. Mi enfoque principal en este proyecto fue en el backend, aunque también participé en la parte mínima del frontend.
 
-- **MongoDB (github.com/NicoPotrich/Curso-MongoDB-data)**: Durante mi tiempo de estudio en Platzi, completé un curso de Modelado de Datos en MongoDB. Este proyecto es el resultado de ese curso y me proporcionó experiencia práctica en el modelado de datos utilizando MongoDB.
+- **MongoDB (https://github.com/NicoPotrich/Curso-MongoDB-data)**: Durante mi tiempo de estudio en Platzi, completé un curso de Modelado de Datos en MongoDB. Este proyecto es el resultado de ese curso y me proporcionó experiencia práctica en el modelado de datos utilizando MongoDB.
 
 ## Objetivos
 
