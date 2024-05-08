@@ -31,7 +31,7 @@ Soy un Estudiante de Data Science y Desarrollador Backend Jr. con conocimientos 
 
 ## Contacto
 
-Puedes encontrarme en linkedin.com/in/potrichnicolas. ¡No dudes en contactarme si tienes alguna pregunta o sugerencia!
+Puedes encontrarme en https://www.linkedin.com/in/potrichnicolas. ¡No dudes en contactarme si tienes alguna pregunta o sugerencia!
 
 ## Agradecimientos
 
