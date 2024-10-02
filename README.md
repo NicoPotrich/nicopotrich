@@ -9,8 +9,11 @@ Soy un Estudiante de Data Science y Desarrollador Backend Jr. con conocimientos 
 ## Habilidades
 
 - Python
+- PHP
 - Django
 - SQL/NoSQL databases
+- HTML
+- CSS
 - Microsoft Power BI
 - Tableau
 - Jupyter Notebooks
