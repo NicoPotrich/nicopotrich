@@ -28,7 +28,7 @@ Soy un Estudiante en Programacion y Desarrollador Backend Jr. con conocimientos 
 
 ## Objetivos
 
-- Seguir desarrollando mis habilidades en Data Science, Data Engineering, Business Intelligence y ETL.
+- Seguir desarrollando mis habilidades en la creación de aplicaciones y procesamiento y análisis de datos.
 - Contribuir a proyectos de código abierto.
 - Explorar nuevas tecnologías y herramientas.
 
