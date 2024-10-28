@@ -4,7 +4,7 @@
 
 ## Acerca de mí
 
-Soy un Estudiante programacion y Desarrollador Backend Jr. con conocimientos en Python, Django y bases de datos SQL/NoSQL. Interesado en el procesamiento y análisis de datos, así como en la creación de aplicaciones y estructuras de datos robustas.
+Soy un Estudiante en Programacion y Desarrollador Backend Jr. con conocimientos en Python, Django y bases de datos SQL/NoSQL. Interesado en el procesamiento y análisis de datos, así como en la creación de aplicaciones y estructuras de datos robustas.
 
 ## Habilidades
 
